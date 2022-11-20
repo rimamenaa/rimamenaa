@@ -3,7 +3,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🌐 Database Analyst at National Pen.
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer
+- 🖥 Full-Stack Web developer
 
 
 <!--## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
@@ -14,34 +14,6 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
 
-## 📊 𝙼𝚢 GitHub Stats:
-
-<!--START_SECTION:stats-->
-<a href="https://github.com/rimamenaa"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimamenaa&langs_count=8&theme=radical" /> 
- </a>
-<a href="https://github.com/rimamenaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rimamenaa&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
-</a>
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimamenaa" alt="rimamenaa" /></a> </p> -->
-
-<!-- <div align="center">
-<details>
-
-<summary>
-  📊 𝙼𝚢 GitHub Stats
-</summary>
-
-<br >
-
-  ![Rima's github stats](https://github-readme-stats.vercel.app/api?username=rimamenaa&count_private=true&theme=blue-green&hide=contribs,prs)
-
-  ![Rima's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rimamenaa&theme=blue-green)
-
-</details>
-</div> -->
-<!--END_SECTION:stats-->
 
 ### Languages and Tools:
 
