@@ -2,6 +2,25 @@
 <h3 align="center"> 🌐 Full-stack JavaScript Developer <br/> 🌐 Database Analyst at National Pen. </h3>
 	
 
+<br >
+<br >
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rima-Menaa" alt="Rima-Menaa" /></a> </p>
+
+<div align="center">
+<details>
+
+<summary>
+  Github Stats
+</summary>
+
+<br >
+
+  ![Rima's github stats](https://github-readme-stats.vercel.app/api?username=Rima-Menaa&count_private=true&theme=blue-green&hide=contribs,prs)
+
+  ![Rima's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rima-Menaa&theme=blue-green)
+
+</details>
+</div>
 
 ### Languages and Tools:
 
